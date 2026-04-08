@@ -1,6 +1,6 @@
 plugins {
     java
-    kotlin("jvm") version "1.9.20"
+    kotlin("jvm")
     kotlin("plugin.allopen") version "1.9.20"
 }
 
